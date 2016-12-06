@@ -1,6 +1,7 @@
 <?php
 class Siswa{
-
+//komentar1
+//komentar2
 	private $db;
 	
 	public function Siswa(){
